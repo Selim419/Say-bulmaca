@@ -1,1 +1,1 @@
-# Say-_bulmaca
+# Sayı-bulmaca
